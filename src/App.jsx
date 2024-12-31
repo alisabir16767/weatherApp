@@ -1,5 +1,5 @@
 import "./App.css";
-import SearchBox from "./searchBox";
+import SearchBox from "./SearchBox";
 
 function App() {
   return (
